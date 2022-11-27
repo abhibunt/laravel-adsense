@@ -19,7 +19,7 @@ In your project root run
 The first step is using [Composer][link-composer] to install the package and automatically update your `composer.json` file, you can do this by running:
 
 ```shell
-composer require martinbutt/laravel-adsense
+composer require abhibunt/laravel-adsense
 ```
 
 ### 2 - Set up config file
