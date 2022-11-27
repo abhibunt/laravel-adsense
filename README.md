@@ -1,4 +1,4 @@
-# Google Adsense Ads for Laravel 6.x, 7.x and 8.x
+# Google Adsense Ads for Laravel 6.x, 7.x, 8.x and 9.x
 
 [![Latest Version][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
