@@ -1,6 +1,6 @@
 {
     "name": "abhibunt/laravel-adsense",
-    "description": "Display Adsense ads easily in Laravel 6.x, 7.x and 8.x",
+    "description": "Display Adsense ads easily in Laravel 6.x, 7.x, 8.x and 9.x",
     "keywords": [ "laravel", "adsense", "ads" ],
     "type": "library",
     "license": "MIT",
