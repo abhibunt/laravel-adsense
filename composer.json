@@ -1,13 +1,13 @@
 {
-    "name": "martinbutt/laravel-adsense",
+    "name": "abhibunt/laravel-adsense",
     "description": "Display Adsense ads easily in Laravel 6.x, 7.x and 8.x",
     "keywords": [ "laravel", "adsense", "ads" ],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Martin Butt",
-            "homepage": "https://www.martinbutt.com",
+            "name": "Abhi shetty",
+            "homepage": "https://www.abi.codes",
             "role": "Developer"
         },
         {
@@ -18,8 +18,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/martinbutt/laravel-adsense/issues",
-        "source": "https://github.com/martinbutt/laravel-adsense/"
+        "issues": "https://github.com/abhibunt/laravel-adsense/issues",
+        "source": "https://github.com/abhibunt/laravel-adsense/"
     },
     "require": {
         "php": "^7.2||^8.0",
