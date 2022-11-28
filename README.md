@@ -24,7 +24,7 @@ composer require abhibunt/laravel-adsense
 
 ### 2 - Set up config file
 
-Run `php artisan config:publish martinbutt/laravel-adsense`.
+Run `php artisan config:publish abhibunt/laravel-adsense`.
 
 Edit the generated config file in `/config/adsense.php` to add your ad units
 
