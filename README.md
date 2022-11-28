@@ -8,7 +8,7 @@
 [![Code Coverage][ico-coverage]][link-coverage]
 [![License][ico-license]][link-license]
 
-Package for easily including Google Adsense Ad units in [Laravel 6.x, 7.x and 8.x][link-laravel] and [Lumen][link-lumen]. For use with Laravel 5.x use original [Mastergalen/Adsense-Ads package][link-mastergalen-adsense].
+Package for easily including Google Adsense Ad units in [Laravel 6.x, 7.x, 8.x and 9.x][link-laravel] and [Lumen][link-lumen]. For use with Laravel 5.x use original [Mastergalen/Adsense-Ads package][link-mastergalen-adsense].
 
 ## Installation
 
